@@ -1,44 +1,38 @@
-
-
-
 .front-page hr {
 	height: 2px;
-	background-color: #C1C1C6;
+	background-color: #c1c1c6;
 }
 
-.logo{
+.logo {
 	margin-top: 40px;
 }
 
-.head-title h1{
+.head-title h1 {
 	font-family: bangers;
 	font-size: 4em;
-	color: #67B790;
+	color: #67b790;
 }
 
-.head-title h3{
+.head-title h3 {
 	font-family: galdeano;
-	color: #C1C1C6;
+	color: #c1c1c6;
 }
 
-.feat-work{
-	margin-top: 50px;
-	margin-bottom: 50px;	
+.feat-work {
+	margin: 50px 0px 50px 0px;	
 }
 
-.feat-work h2{
+.feat-work h2 {
 	font-family: galdeano;
 	color: #005090;
 	font-size: 2.5em;
 	margin-bottom: 30px;
 }
 
-.feat-work h3{
+.feat-work h3 {
 	font-family: Raleway;
 }
 
-.feat-work .img-writing{
-	border-style: solid;
-	border-width: 1px;
-	border-color: #C1C1C6;
+.feat-work .illustrate-img {
+	border: 1px solid #c1c1c6;
 }
